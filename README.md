@@ -1,4 +1,4 @@
-# IOSFONTTHAI
+# IOSFONTTHAI FOR ANDROID
 ios_font english and thai for magisk module 
 ฟอนต์iosไทย อังกฤษ สำหรับ magisk module
 by Thonburi-font
